@@ -1,5 +1,7 @@
 node_modules
 build
+dist/
 *.jam
 logs/
+config/
 .DS_Store
