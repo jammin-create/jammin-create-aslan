@@ -20,7 +20,7 @@ This project includes:
 jammin build
 ```
 
-Runs the build inside the as-lan Docker image. Produces `services/example/example.jam` (copied to `dist/example.jam`).
+Builds the service using jammin's native as-lan SDK support. Produces `services/example/example.jam` (copied to `dist/example.jam`).
 
 ### Test
 

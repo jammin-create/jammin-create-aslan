@@ -1,7 +1,4 @@
 services:
   - path: services/example
     name: example
-    sdk:
-      image: ghcr.io/tomusdrw/jammin-as-lan:0.0.3
-      build: sh -c "npm install --no-audit --no-fund && npm run build"
-      test: sh -c "npm install --no-audit --no-fund && npm test"
+    sdk: aslan-0.0.6
