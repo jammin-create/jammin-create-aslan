@@ -1,4 +1,4 @@
 services:
   - path: services/example
     name: example
-    sdk: aslan-0.0.6
+    sdk: aslan@0.0.6
